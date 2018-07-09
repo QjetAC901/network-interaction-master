@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title_bar_padding_top">0dp</dimen>
+    <!-- 通用text size -->
+    <dimen name="text_size_tiny">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_big">16sp</dimen>
+    <dimen name="text_size_huge">18sp</dimen>
+    <dimen name="text_size_xhuge">20sp</dimen>
+    <dimen name="text_size_super">25sp</dimen>
+    <!-- 通用margin -->
+    <dimen name="margin_tiny2">5dp</dimen>
+    <dimen name="margin_tiny">6dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_small2">12dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_normal2">18dp</dimen>
+    <dimen name="margin_big">20dp</dimen>
+    <dimen name="margin_huge">24dp</dimen>
+    <dimen name="margin_xhuge">28dp</dimen>
+    <dimen name="search_tv_margin">40dp</dimen>
+    <dimen name="margin_super">60dp</dimen>
+    <!-- 通用padding -->
+    <dimen name="padding_tiny2">5dp</dimen>
+    <dimen name="padding_tiny">6dp</dimen>
+    <dimen name="padding_general">8dp</dimen>
+    <dimen name="padding_small">10dp</dimen>
+    <dimen name="search_phone_drawable_padding">14dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_big">20dp</dimen>
+    <dimen name="padding_huge">25dp</dimen>
+    <dimen name="padding_xhuge">28dp</dimen>
+
+</resources>
