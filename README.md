@@ -12,7 +12,7 @@ network-interaction-master
 <br/>
      4、创建返回数据实体类
 <br/>
-     5、<br/>
+     5、调用方式<br/>
 ```java
      RetrofitHelper.getApiService(Constants.GANK_HTTP_ADDRESS)
                 .getWelfare(20, currentPages)
