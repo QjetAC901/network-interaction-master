@@ -12,7 +12,7 @@ network-interaction-master
 <br/>
      4、创建返回数据实体类
 <br/>
-     5、
+     5、<br/>
      RetrofitHelper.getApiService(Constants.GANK_HTTP_ADDRESS)
                 .getWelfare(20, currentPages)
                 .compose(this.<List<Welfare>>bindToLifecycle())
