@@ -13,6 +13,7 @@ network-interaction-master
      4、创建返回数据实体类
 <br/>
      5、<br/>
+```java
      RetrofitHelper.getApiService(Constants.GANK_HTTP_ADDRESS)
                 .getWelfare(20, currentPages)
                 .compose(this.<List<Welfare>>bindToLifecycle())
@@ -32,4 +33,5 @@ network-interaction-master
                         LogUtils.e("TAG", "请求失败");
                     }
                 });
+```java
      
